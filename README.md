@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Docker**
 
-- 💬 Ask me about **React, Redux, JavaScript**
+- 💬 Ask me about **Nextjs, React, Redux, JavaScript**
 
 - 📫 How to reach me **graciana.baratti@gmail.com**
 
